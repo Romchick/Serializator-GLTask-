@@ -1,0 +1,9 @@
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\bin\Debug\GlobalLogicTask.exe.config
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\bin\Debug\GlobalLogicTask.exe
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\bin\Debug\GlobalLogicTask.pdb
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.Form1.resources
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.Properties.Resources.resources
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.csproj.GenerateResource.Cache
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.exe
+c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.pdb
+C:\Users\Romchick\Documents\Visual Studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.csprojResolveAssemblyReference.cache
