@@ -7,3 +7,12 @@ c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLo
 c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.exe
 c:\users\romchick\documents\visual studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.pdb
 C:\Users\Romchick\Documents\Visual Studio 2013\Projects\GlobalLogicTask\GlobalLogicTask\obj\Debug\GlobalLogicTask.csprojResolveAssemblyReference.cache
+D:\123\Serializator-GLTask-\GlobalLogicTask\bin\Debug\GlobalLogicTask.exe.config
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.exe
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.pdb
+D:\123\Serializator-GLTask-\GlobalLogicTask\bin\Debug\GlobalLogicTask.exe
+D:\123\Serializator-GLTask-\GlobalLogicTask\bin\Debug\GlobalLogicTask.pdb
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.csprojResolveAssemblyReference.cache
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.Form1.resources
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.Properties.Resources.resources
+D:\123\Serializator-GLTask-\GlobalLogicTask\obj\Debug\GlobalLogicTask.csproj.GenerateResource.Cache

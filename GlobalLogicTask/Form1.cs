@@ -72,6 +72,7 @@ namespace GlobalLogicTask
                 IFormatter formatter = new BinaryFormatter();
                 Stream stream = new FileStream("MyFile.bin", FileMode.Create, FileAccess.Write, FileShare.None);
                 formatter.Serialize(stream, listOfFolders);
+                formatter.Serialize(stream, listOfFilePath);
                 formatter.Serialize(stream, listOfBytes);
                 stream.Close();
                 Environment.SpecialFolder root = folderDlg.RootFolder;
@@ -94,6 +95,7 @@ namespace GlobalLogicTask
                 //Deserealization 
                 IFormatter formatter = new BinaryFormatter();
                 List<string> outputListOfFolders = (List<string>)formatter.Deserialize(stream);
+                List<string> outputListOfFilePath = (List<string>)formatter.Deserialize(stream);
                 List<byte[]> outputListOfBytes = (List<byte[]>)formatter.Deserialize(stream);
                 stream.Close();
 
@@ -109,7 +111,7 @@ namespace GlobalLogicTask
                 int i = 0;
                 foreach (var b in outputListOfBytes)
                 {
-                    File.WriteAllBytes(newPath + listOfFilePath.ElementAt(i), b);
+                    File.WriteAllBytes(newPath + outputListOfFilePath.ElementAt(i), b);
                     i++;
                 }
 
